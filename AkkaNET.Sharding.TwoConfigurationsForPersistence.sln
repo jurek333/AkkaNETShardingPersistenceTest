@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaNET.Sharding.TwoConfigurationsForPersistence", "AkkaNET.Sharding.TwoConfigurationsForPersistence\AkkaNET.Sharding.TwoConfigurationsForPersistence.csproj", "{84FD1624-D18C-4879-A8AF-2225AAE38C46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaNET.Sharding.Lighthouse", "AkkaNET.Sharding.Lighthouse\AkkaNET.Sharding.Lighthouse.csproj", "{6B2E6871-3975-4611-8BB4-3EA7A432925C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84FD1624-D18C-4879-A8AF-2225AAE38C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FD1624-D18C-4879-A8AF-2225AAE38C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FD1624-D18C-4879-A8AF-2225AAE38C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FD1624-D18C-4879-A8AF-2225AAE38C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B2E6871-3975-4611-8BB4-3EA7A432925C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2E6871-3975-4611-8BB4-3EA7A432925C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2E6871-3975-4611-8BB4-3EA7A432925C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2E6871-3975-4611-8BB4-3EA7A432925C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
